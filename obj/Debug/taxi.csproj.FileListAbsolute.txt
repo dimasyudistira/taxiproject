@@ -1,0 +1,7 @@
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\bin\Debug\taxi.exe.config
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\bin\Debug\taxi.exe
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\bin\Debug\taxi.pdb
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\obj\Debug\taxi.csproj.AssemblyReference.cache
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\obj\Debug\taxi.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\obj\Debug\taxi.exe
+C:\Users\dimas\OneDrive\Documents\21.11.4301_dimasyudistiratgs9\taxi\obj\Debug\taxi.pdb
